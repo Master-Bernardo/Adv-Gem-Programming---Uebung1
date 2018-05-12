@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: d6ffff5a4fb133444ab9baf39b74b423
+timeCreated: 1526118589
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Cube.018
+    100006: Feet-IK_L
+    100008: Feet-IK_L.001
+    100010: Feet-IK_L.001_end
+    100012: Feet-IK_L_end
+    100014: Head
+    100016: Head_end
+    100018: Knee-IK_L
+    100020: Knee-IK_L.001
+    100022: Knee-IK_L.001_end
+    100024: Knee-IK_L_end
+    100026: Leg_L.001
+    100028: Leg_L.002
+    100030: Leg_L.003
+    100032: Leg_L.004
+    100034: Leg_L.004_end
+    100036: Leg_L.005
+    100038: Leg_L.006
+    100040: Leg_L.007
+    100042: Leg_L.008
+    100044: Leg_L.008_end
+    100046: Spine.01
+    100048: Spine.02
+    100050: Spine.03
+    100052: Spine.04
+    100054: Spine.05
+    100056: Spine.06
+    100058: Spine.07
+    100060: Spine.08
+    100062: Steuerbone
+    100064: Tail-IK
+    100066: Tail-IK_end
+    100068: Tail.001
+    100070: Tail.002
+    100072: Tail.003
+    100074: Tail.004
+    100076: Tail.005
+    100078: Tail.006
+    100080: Tail.007
+    100082: Tail.008
+    100084: Tail.009
+    100086: Tail.010
+    100088: Tail.011
+    100090: Tail.011_end
+    100092: Throat-IK
+    100094: Throat-IK_end
+    100096: Wing-IK_L
+    100098: Wing-IK_L.001
+    100100: Wing-IK_L.001_end
+    100102: Wing-IK_L_end
+    100104: Wing_L.001
+    100106: Wing_L.002
+    100108: Wing_L.003
+    100110: Wing_L.004
+    100112: Wing_L.005
+    100114: Wing_L.006
+    100116: Wing_L.007
+    100118: Wing_L.008
+    100120: Wing_L.009
+    100122: Wing_L.009_end
+    100124: Wing_L.010
+    100126: Wing_L.011
+    100128: Wing_L.012
+    100130: Wing_L.012_end
+    100132: WingElbow-IK_L
+    100134: WingElbow-IK_L.001
+    100136: WingElbow-IK_L.001_end
+    100138: WingElbow-IK_L_end
+    400000: //RootNode
+    400002: Armature
+    400004: Cube.018
+    400006: Feet-IK_L
+    400008: Feet-IK_L.001
+    400010: Feet-IK_L.001_end
+    400012: Feet-IK_L_end
+    400014: Head
+    400016: Head_end
+    400018: Knee-IK_L
+    400020: Knee-IK_L.001
+    400022: Knee-IK_L.001_end
+    400024: Knee-IK_L_end
+    400026: Leg_L.001
+    400028: Leg_L.002
+    400030: Leg_L.003
+    400032: Leg_L.004
+    400034: Leg_L.004_end
+    400036: Leg_L.005
+    400038: Leg_L.006
+    400040: Leg_L.007
+    400042: Leg_L.008
+    400044: Leg_L.008_end
+    400046: Spine.01
+    400048: Spine.02
+    400050: Spine.03
+    400052: Spine.04
+    400054: Spine.05
+    400056: Spine.06
+    400058: Spine.07
+    400060: Spine.08
+    400062: Steuerbone
+    400064: Tail-IK
+    400066: Tail-IK_end
+    400068: Tail.001
+    400070: Tail.002
+    400072: Tail.003
+    400074: Tail.004
+    400076: Tail.005
+    400078: Tail.006
+    400080: Tail.007
+    400082: Tail.008
+    400084: Tail.009
+    400086: Tail.010
+    400088: Tail.011
+    400090: Tail.011_end
+    400092: Throat-IK
+    400094: Throat-IK_end
+    400096: Wing-IK_L
+    400098: Wing-IK_L.001
+    400100: Wing-IK_L.001_end
+    400102: Wing-IK_L_end
+    400104: Wing_L.001
+    400106: Wing_L.002
+    400108: Wing_L.003
+    400110: Wing_L.004
+    400112: Wing_L.005
+    400114: Wing_L.006
+    400116: Wing_L.007
+    400118: Wing_L.008
+    400120: Wing_L.009
+    400122: Wing_L.009_end
+    400124: Wing_L.010
+    400126: Wing_L.011
+    400128: Wing_L.012
+    400130: Wing_L.012_end
+    400132: WingElbow-IK_L
+    400134: WingElbow-IK_L.001
+    400136: WingElbow-IK_L.001_end
+    400138: WingElbow-IK_L_end
+    4300000: Cube.018
+    7400000: Armature|Flying
+    9500000: //RootNode
+    13700000: Cube.018
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: dbac088806e89d445a8fbd3c87dd36b2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Flying
+      takeName: Armature|Flying
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
