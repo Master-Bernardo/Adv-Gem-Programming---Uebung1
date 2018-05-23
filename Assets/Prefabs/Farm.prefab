@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4934759045141970}
   - component: {fileID: 33646708952620562}
   - component: {fileID: 23506625909173596}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: farmModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38,7 +38,7 @@ GameObject:
   - component: {fileID: 4383144713520538}
   - component: {fileID: 65393357387951816}
   - component: {fileID: 114546547790786202}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: FarmCollider
   m_TagString: Farm
   m_Icon: {fileID: 0}
@@ -55,7 +55,7 @@ GameObject:
   - component: {fileID: 4569991944354934}
   - component: {fileID: 198727176774604490}
   - component: {fileID: 199940907393469632}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: FireEmbers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87,7 +87,7 @@ GameObject:
   - component: {fileID: 4945985150372940}
   - component: {fileID: 198394460834123358}
   - component: {fileID: 199607890661880860}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: FarmFire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -229,8 +229,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 10
   pointsForDestroying: 1
+  transitionSpeed: 0.5
   fireEffect: {fileID: 1617868151814182}
-  rend: {fileID: 23506625909173596}
 --- !u!198 &198394460834123358
 ParticleSystem:
   m_ObjectHideFlags: 1

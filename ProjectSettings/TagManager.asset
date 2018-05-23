@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Farm
   - Rock
+  - Border
   layers:
   - Default
   - TransparentFX

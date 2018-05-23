@@ -62,7 +62,11 @@ public class PlayerController : MonoBehaviour {
 
                 //clamp Ziel
                 
-                ziel = new Vector3(Mathf.Clamp(ziel.x, dragonsMouth.transform.position.x - disX, dragonsMouth.transform.position.x + disX), ziel.y, Mathf.Clamp(ziel.z, dragonsMouth.transform.position.z + minZ, dragonsMouth.transform.position.z + maxZ));
+                ziel = new Vector3(
+                    Mathf.Clamp(ziel.x, dragonsMouth.transform.position.x - disX, dragonsMouth.transform.position.x + disX),
+                    ziel.y, 
+                    Mathf.Clamp(ziel.z, dragonsMouth.transform.position.z + minZ, dragonsMouth.transform.position.z + maxZ)
+                );
                 Debug.Log(ziel);
 
                 dragonsMouth.transform.rotation = Quaternion.LookRotation((ziel - transform.position));
